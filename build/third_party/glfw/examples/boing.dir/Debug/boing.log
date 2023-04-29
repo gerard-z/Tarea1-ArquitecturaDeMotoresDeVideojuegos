@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Gerard/Otoño 2023/arquitectura de motores de videojuegos/tarea 1/Tarea1-ArquitecturaDeMotoresDeVideojuegos/third_party/glfw/examples/CMakeLists.txt
-  boing.c
-C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\third_party\glfw\examples\boing.c(32,1): warning C4005: '_USE_MATH_DEFINES': redefinición de macro
-C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\third_party\glfw\examples\boing.c(32,1): message : '_USE_MATH_DEFINES' declarado previamente en la línea de comandos
-  glad_gl.c
-  Generando código...
-  boing.vcxproj -> C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\third_party\glfw\examples\Debug\boing.exe
