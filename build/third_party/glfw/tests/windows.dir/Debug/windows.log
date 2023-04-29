@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Gerard/Otoño 2023/arquitectura de motores de videojuegos/tarea 1/Tarea1-ArquitecturaDeMotoresDeVideojuegos/third_party/glfw/tests/CMakeLists.txt
+  windows.c
+  getopt.c
+  glad_gl.c
+  Generando código...
+  windows.vcxproj -> C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\third_party\glfw\tests\Debug\windows.exe

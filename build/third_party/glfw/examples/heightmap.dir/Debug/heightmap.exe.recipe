@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\third_party\glfw\examples\Debug\heightmap.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

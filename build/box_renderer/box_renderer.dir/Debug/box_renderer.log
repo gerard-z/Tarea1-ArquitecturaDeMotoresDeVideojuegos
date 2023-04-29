@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Gerard/Otoño 2023/arquitectura de motores de videojuegos/tarea 1/Tarea1-ArquitecturaDeMotoresDeVideojuegos/box_renderer/CMakeLists.txt
+  vec2.cpp
+  color.cpp
+  box.cpp
+  mesh.cpp
+  dmesh.cpp
+  canvas.cpp
+  box_pipeline.cpp
+  performance_monitor.cpp
+  shaders_core.cpp
+  keyboard.cpp
+  controller.cpp
+  Generando código...
+  box_renderer.vcxproj -> C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\box_renderer\Debug\box_renderer.lib

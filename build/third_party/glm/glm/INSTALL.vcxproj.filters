@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\CMakeFiles\4a60ed7a9d929cd0f456bd3d19d7af89\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{97D42A18-F682-307F-B503-2EB63A3FD2D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

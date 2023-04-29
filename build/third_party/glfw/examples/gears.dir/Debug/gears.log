@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Gerard/Otoño 2023/arquitectura de motores de videojuegos/tarea 1/Tarea1-ArquitecturaDeMotoresDeVideojuegos/third_party/glfw/examples/CMakeLists.txt
+  gears.c
+C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\third_party\glfw\examples\gears.c(26,1): warning C4005: '_USE_MATH_DEFINES': redefinición de macro
+C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\third_party\glfw\examples\gears.c(26,1): message : '_USE_MATH_DEFINES' declarado previamente en la línea de comandos
+  glad_gl.c
+  Generando código...
+  gears.vcxproj -> C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\third_party\glfw\examples\Debug\gears.exe

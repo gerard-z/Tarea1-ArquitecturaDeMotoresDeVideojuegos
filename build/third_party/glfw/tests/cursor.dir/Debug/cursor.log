@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Gerard/Otoño 2023/arquitectura de motores de videojuegos/tarea 1/Tarea1-ArquitecturaDeMotoresDeVideojuegos/third_party/glfw/tests/CMakeLists.txt
+  cursor.c
+C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\third_party\glfw\tests\cursor.c(39,1): warning C4005: '_USE_MATH_DEFINES': redefinición de macro
+C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\third_party\glfw\tests\cursor.c(39,1): message : '_USE_MATH_DEFINES' declarado previamente en la línea de comandos
+  glad_gl.c
+  Generando código...
+  cursor.vcxproj -> C:\Gerard\Otoño 2023\arquitectura de motores de videojuegos\tarea 1\Tarea1-ArquitecturaDeMotoresDeVideojuegos\build\third_party\glfw\tests\Debug\cursor.exe
