@@ -1,3 +1,0 @@
-[submodule "box_renderer"]
-	path = box_renderer
-	url = https://github.com/dantros/box_renderer.git
