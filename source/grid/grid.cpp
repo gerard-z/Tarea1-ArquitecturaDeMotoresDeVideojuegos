@@ -60,7 +60,7 @@ bool Grid::canMove(const Point &oldPosition, const Point &position, const Point 
             }
             return true;
         } else {
-            moveTo(*entity, Point{static_cast< float >(size/2), 2}, canvas);
+            moveTo(*entity, Point{static_cast< float >(size/2), 3}, canvas);
             return false;
         }
     } else {
