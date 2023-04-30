@@ -6,6 +6,8 @@ add_library(entity_lib STATIC
 )
 
 set_property(TARGET entity_lib PROPERTY CXX_STANDARD 20)
+target_link_libraries(entity_lib PRIVATE ${BOX_RENDERER_LIBRARY})
+target_include_directories(entity_lib PRIVATE ${BOX_RENDERER_INCLUDE_DIRECTORIES})
 
 add_library(grid_lib STATIC
     "grid/grid.h"
