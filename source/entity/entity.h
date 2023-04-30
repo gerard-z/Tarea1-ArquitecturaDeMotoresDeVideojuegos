@@ -1,6 +1,6 @@
 #pragma once
 #include "point.h"
-#include "../../box_renderer/box_renderer.h"
+#include "../../box_renderer/source/box_renderer.h"
 
 
 /*
